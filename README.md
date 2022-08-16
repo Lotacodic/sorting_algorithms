@@ -1,7 +1,8 @@
-<!doctype html>
+## A project on Sorting Algorithms
+<!DOCTYPE html>
+<html lang="en">
 <head></head>
 <body>
-## A project on Sorting Algorithms
 <hr>
 <p>
 </p>
